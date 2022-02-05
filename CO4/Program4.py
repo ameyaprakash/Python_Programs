@@ -1,3 +1,4 @@
+
 class time:
     def __init__(self,h,m,s):
         self.__hh = h
